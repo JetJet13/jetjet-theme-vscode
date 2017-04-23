@@ -1,10 +1,7 @@
-### JetJet-Theme
-
-# Details
-I designed this theme with JavaScript in mind.
+# JetJet-Theme
 
 # Requirements
-This theme will only work for VS Code versions 1.11.0 and greater.
+This theme will only work for VS Code versions 1.8.0 and greater.
 
 Enjoy!
 ## Javascript
