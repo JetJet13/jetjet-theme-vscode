@@ -7,9 +7,10 @@ I designed this theme with JavaScript in mind.
 This theme will only work for VS Code versions 1.11.0 and greater.
 
 Enjoy!
-
+## Javascript
 ![sample-code](/sample-code.png)
-
+## HTML
+![sample-code](/sample-html-code.png)
 # License
 
 Copyright 2017 Johny Georges
