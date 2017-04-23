@@ -25,6 +25,11 @@
                 "label": "JetJet",
                 "uiTheme": "vs-dark",
                 "path": "./themes/JetJet.tmTheme"
+            },
+            {
+                "label": "JetJet-Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JetJet-Gray.tmTheme"
             }
         ]
     }
