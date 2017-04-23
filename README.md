@@ -8,7 +8,7 @@ This theme will only work for VS Code versions 1.11.0 and greater.
 
 Enjoy!
 
-![Alt text](sample-code.png)
+![sample-code](/sample-code.png)
 
 # License
 

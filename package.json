@@ -2,16 +2,16 @@
     "name": "jetjet-theme",
     "displayName": "JetJet-theme",
     "description": "This theme uses green, blue, orange, and red on a dark background. Enjoy.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "JohnyGeorges",
     "galleryBanner": {
         "color": "#4BC0FF",
         "theme": "dark"
     },
-    "homepage": "https://github.com/Microsoft/vscode-spell-check/blob/master/README.md",
+    "homepage": "https://github.com/JetJet13/jetjet-theme-vscode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-spell-check.git"
+        "url": "https://github.com/JetJet13/jetjet-theme-vscode.git"
     },
     "engines": {
         "vscode": "^1.11.0"
