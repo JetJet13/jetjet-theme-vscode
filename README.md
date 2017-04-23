@@ -1,7 +1,8 @@
-# JetJet-Theme
 
-# Requirements
-This theme will only work for VS Code versions 1.8.0 and greater.
+
+# JetJet Theme
+This package comes with two themes, a dark-gray and gray background theme.
+This theme will work for VS Code versions 1.8.0 and greater.
 
 Enjoy!
 ## Javascript
