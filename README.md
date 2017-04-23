@@ -6,9 +6,9 @@ This theme will work for VS Code versions 1.8.0 and greater.
 
 Enjoy!
 ## Javascript
-![sample-code](/sample-code.png)
+![sample-code](sample-code.png)
 ## HTML
-![sample-code](/sample-html-code.png)
+![sample-code](sample-html-code.png)
 # License
 
 Copyright 2017 Johny Georges
