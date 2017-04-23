@@ -2,7 +2,7 @@
     "name": "jetjet-theme",
     "displayName": "JetJet-theme",
     "description": "This theme uses green, blue, orange, and red on a dark background. Enjoy.",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "JohnyGeorges",
     "galleryBanner": {
         "color": "#4BC0FF",
@@ -14,7 +14,7 @@
         "url": "https://github.com/JetJet13/jetjet-theme-vscode.git"
     },
     "engines": {
-        "vscode": "^1.11.0"
+        "vscode": "^1.8.0"
     },
     "categories": [
         "Themes"
