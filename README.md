@@ -14,9 +14,9 @@ Enjoy!
 ## HTML (Alternate)
 ![sample-code-alternate-html](jetjet-theme-alternate-sample-html.png)
 ## Javascript (Light)
-![sample-code-light-js](jetjet-light-theme-sample-js.png)
+![sample-code-light-js](jetjet-theme-light-sample-js.png)
 ## HTML (Light)
-![sample-code-light-html](jetjet-light-theme-sample-html.png)
+![sample-code-light-html](jetjet-theme-light-sample-html.png)
 # License
 
 Copyright 2017 Johny Georges
