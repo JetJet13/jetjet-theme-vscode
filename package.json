@@ -31,6 +31,21 @@
                 "label": "JetJet-Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/JetJet-Gray.tmTheme"
+            },
+            {
+                "label": "JetJet-Alternate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JetJet-Alternate.tmTheme"
+            },
+            {
+                "label": "JetJet-Alternate-Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JetJet-Alternate-Gray.tmTheme"
+            },
+            {
+                "label": "JetJet-Light",
+                "uiTheme": "vs",
+                "path": "./themes/JetJet-Light.tmTheme"
             }
         ]
     }
