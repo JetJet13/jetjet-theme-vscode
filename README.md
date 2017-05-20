@@ -1,14 +1,22 @@
 
 
 # JetJet Theme
-This package comes with two themes, a dark-gray and gray background theme.
+This package comes with three themes: Original, Alternate, and Light.
 This theme will work for VS Code versions 1.8.0 and greater.
 
 Enjoy!
-## Javascript
-![sample-code](sample-code.png)
-## HTML
-![sample-code](sample-html-code.png)
+## Javascript (Original)
+![sample-code-original-js](sample-code.png)
+## HTML (Original)
+![sample-code-original-html](sample-html-code.png)
+## Javascript (Alternate)
+![sample-code-alternate-js](jetjet-theme-alternate-sample-js.png)
+## HTML (Alternate)
+![sample-code-alternate-html](jetjet-theme-alternate-sample-html.png)
+## Javascript (Light)
+![sample-code-light-js](jetjet-light-theme-sample-js.png)
+## HTML (Light)
+![sample-code-light-html](jetjet-light-theme-sample-html.png)
 # License
 
 Copyright 2017 Johny Georges

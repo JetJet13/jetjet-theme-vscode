@@ -2,5 +2,6 @@
 All notable changes to the "jetjet-theme" extension will be documented in this file.
 
 
-## [Unreleased]
+## [Released]
 - Initial release
+- Added Alternate and Light themes.
