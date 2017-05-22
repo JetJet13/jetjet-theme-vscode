@@ -3,7 +3,21 @@
 # JetJet Theme
 This package comes with three themes: Original, Alternate, and Light.
 This theme will work for VS Code versions 1.8.0 and greater.
+# Workbench Customization
 
+If you would like to cutomize the workbench colors to get a more complimentary look, you can add the `workbench.colorCustomizations` setting in your `settings.json`. Note that this works for version 1.12 and greater.
+For example,
+```
+"workbench.colorCustomizations":{
+    "tab.activeBackground": "#012A4B",
+    "activityBar.background": "#012A4B",
+    "statusBar.background": "#012A4B",
+    "activityBarBadge.background": "#FFD600",
+    "activityBarBadge.foreground": "#1A1D21",
+    "editorGroup.background": "#1A1D21",
+    "sideBar.background": "#1A1D21"
+}
+```
 Enjoy!
 ## Javascript (Original)
 ![sample-code-original-js](sample-code.png)
