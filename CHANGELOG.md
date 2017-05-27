@@ -5,3 +5,4 @@ All notable changes to the "jetjet-theme" extension will be documented in this f
 ## [Released]
 - Initial release
 - Added Alternate and Light themes.
+- Improved Syntax highlighting for Python
