@@ -4,8 +4,6 @@
 This package comes with three themes: Original, Alternate, and Light.
 This theme will work for VS Code versions 1.8.0 and greater.
 
-# Installation
-
 
 # Workbench Customization
 
@@ -32,7 +30,7 @@ Enjoy!
 ## HTML (Alternate)
 ![sample-code-alternate-html](jetjet-alternate-html-v2.jpg)
 ## Javascript (Light)
-![sample-code-light-js](jetjet-theme-light-sample-js.png)
+![sample-code-light-js](jetjet-light-js-v2.jpg)
 ## HTML (Light)
 ![sample-code-light-html](jetjet-theme-light-sample-html.png)
 # License
