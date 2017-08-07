@@ -160,6 +160,19 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>this</string>
+				<key>scope</key>
+				<string>variable.language,var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#E96300</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>console js</string>
 				<key>scope</key>
 				<string>support.class.console.js, support.class.console.ts, support.class.console.jsx</string>
