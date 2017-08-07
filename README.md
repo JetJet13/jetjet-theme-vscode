@@ -3,6 +3,10 @@
 # JetJet Theme
 This package comes with three themes: Original, Alternate, and Light.
 This theme will work for VS Code versions 1.8.0 and greater.
+
+# Installation
+
+
 # Workbench Customization
 
 If you would like to cutomize the workbench colors to get a more complimentary look, you can add the `workbench.colorCustomizations` setting in your `settings.json`. Note that this works for version 1.12 and greater.
@@ -20,13 +24,13 @@ For example,
 ```
 Enjoy!
 ## Javascript (Original)
-![sample-code-original-js](sample-code.png)
+![sample-code-original-js](jetjet-gray-sample-v2.jpg)
 ## HTML (Original)
-![sample-code-original-html](sample-html-code.png)
+![sample-code-original-html](jetjet-html-v2.jpg)
 ## Javascript (Alternate)
-![sample-code-alternate-js](jetjet-theme-alternate-sample-js.png)
+![sample-code-alternate-js](jetjet-alternate-sample-v2.jpg)
 ## HTML (Alternate)
-![sample-code-alternate-html](jetjet-theme-alternate-sample-html.png)
+![sample-code-alternate-html](jetjet-alternate-html-v2.jpg)
 ## Javascript (Light)
 ![sample-code-light-js](jetjet-theme-light-sample-js.png)
 ## HTML (Light)
