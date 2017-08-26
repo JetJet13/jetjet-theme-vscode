@@ -60,6 +60,19 @@
 					<string>#FFFFFF</string>
 				</dict>
 			</dict>
+			<!--CSS COLORS  -->
+			<dict>
+				<key>name</key>
+				<string>CSS_PROPERTY_VALUE_COLOR</string>
+				<key>scope</key>
+				<string>support.constant.property-value.css,support.constant.color.w3c-standard-color-name.css,</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FF80AB</string>
+				</dict>
+			</dict>
+			<!--END OF CSS COLORS  -->
 			<!--HTML COLORS-->
 			<dict>
 				<key>name</key>
@@ -121,15 +134,41 @@
 			<!--END OF HTML COLOR SCHEME-->
 			<dict>
 				<key>name</key>
-				<string>Constant, Function Argument, Tag Attribute, Embedded</string>
+				<string>Constant, Tag Attribute, Embedded</string>
 				<key>scope</key>
-				<string>constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit</string>
+				<string>constant.language, constant.character, keyword.other.unit</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FF8F6B</string>
+					<string>#8C9EFF</string>
+				</dict>
+			</dict>
+				<dict>
+				<key>name</key>
+				<string>Function Parameter</string>
+				<key>scope</key>
+				<string>variable.parameter</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string>bold</string>
+					<key>foreground</key>
+					<string>#ECEFF1</string>
+				</dict>
+			</dict>			
+			<dict>
+				<key>name</key>
+				<string>Support Constant, Function Argument, Tag Attribute, Embedded</string>
+				<key>scope</key>
+				<string>support.constant</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#FFCC80</string>
 				</dict>
 			</dict>
 			<dict>
@@ -221,7 +260,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#BBCBD3</string>
+					<string>#FF8F6B</string>
 				</dict>
 			</dict>
 			<dict>
@@ -234,7 +273,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#BBCBD3</string>
+					<string>#FF8F6B</string>
 				</dict>
 			</dict>
 			<dict>
