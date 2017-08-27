@@ -9,7 +9,7 @@ This theme will work for VS Code versions 1.8.0 and greater.
 
 If you would like to cutomize the workbench colors to get a more complimentary look, you can add the `workbench.colorCustomizations` setting in your `settings.json`. Note that this works for version 1.12 and greater.
 For example,
-```
+```json
 "workbench.colorCustomizations":{
     "tab.activeBackground": "#012A4B",
     "activityBar.background": "#012A4B",
@@ -22,17 +22,23 @@ For example,
 ```
 Enjoy!
 ## Javascript (Original)
-![sample-code-original-js](jetjet-gray-sample-v2.jpg)
+![sample-code-original-js](js-jetjet.jpg)
 ## HTML (Original)
-![sample-code-original-html](jetjet-html-v2.jpg)
+![sample-code-original-html](html-jetjet.jpg)
+## Python (Original)
+![sample-code-original-html](python-jetjet.jpg)
 ## Javascript (Alternate)
-![sample-code-alternate-js](jetjet-alternate-sample-v2.jpg)
+![sample-code-alternate-js](js-jetjet-alternate.jpg)
 ## HTML (Alternate)
-![sample-code-alternate-html](jetjet-alternate-html-v2.jpg)
+![sample-code-alternate-html](html-jetjet-alternate.jpg)
+## Python (Alternate)
+![sample-code-alternate-python](python-jetjet-alternate.jpg)
 ## Javascript (Light)
-![sample-code-light-js](jetjet-light-js-v2.jpg)
+![sample-code-light-js](js-jetjet-light.jpg)
 ## HTML (Light)
-![sample-code-light-html](jetjet-theme-light-sample-html.png)
+![sample-code-light-html](html-jetjet-light.jpg)
+## Python (Light)
+![sample-code-light-html](python-jetjet-light.jpg)
 # License
 
 Copyright 2017 Johny Georges
