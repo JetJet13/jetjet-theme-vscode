@@ -142,7 +142,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#8C9EFF</string>
+					<string>#FF80AB</string>
 				</dict>
 			</dict>
 			<dict>
@@ -160,7 +160,7 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Support Constant, Function Argument, Tag Attribute, Embedded</string>
+				<string>Support Constant</string>
 				<key>scope</key>
 				<string>support.constant</string>
 				<key>settings</key>
@@ -260,7 +260,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FF8F6B</string>
+					<string>#7AF0D2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -273,7 +273,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#FF8F6B</string>
+					<string>#7AF0D2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -299,7 +299,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FF80AB</string>
+					<string>#8C9EFF</string>
 				</dict>
 			</dict>
 			<dict>
