@@ -339,6 +339,7 @@
 					<string>#32EB98</string>
 				</dict>
 			</dict>
+			<!--PYTHON START  -->
 			<dict>
 				<key>name</key>
 				<string> Python - Meta Function Call</string>
@@ -365,6 +366,20 @@
 					<string>#32EB98</string>
 				</dict>
 			</dict>
+			<dict>
+				<key>name</key>
+				<string>Python Builtin Function</string>
+				<key>scope</key>
+				<string>support.function.builtin.python</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#FFCC80</string>
+				</dict>
+			</dict>
+			<!--END PYTHON  -->
 			<dict>
 				<key>name</key>
 				<string>Keyword, Storage</string>

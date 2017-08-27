@@ -123,13 +123,52 @@
 				<key>name</key>
 				<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 				<key>scope</key>
-				<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit</string>
+				<string>constant.language, constant.character, keyword.other.unit</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
 					<string>Bold</string>
 					<key>foreground</key>
-					<string>#F50057</string>
+					<string>#00BEAC</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Function Parameter</string>
+				<key>scope</key>
+				<string>variable.parameter</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string>bold</string>
+					<key>foreground</key>
+					<string>#546E7A</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Support Constant</string>
+				<key>scope</key>
+				<string>support.constant</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#F06292</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Number</string>
+				<key>scope</key>
+				<string>constant.numeric</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#C62828</string>
 				</dict>
 			</dict>
 			<dict>
@@ -299,6 +338,7 @@
 					<string>#009B40</string>
 				</dict>
 			</dict>
+			<!--PYTHON START  -->
 			<dict>
 				<key>name</key>
 				<string> Python - Meta Function Call</string>
@@ -325,7 +365,20 @@
 					<string>#009B40</string>
 				</dict>
 			</dict>
-
+			<dict>
+				<key>name</key>
+				<string>Python Builtin Function</string>
+				<key>scope</key>
+				<string>support.function.builtin.python</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#F06292</string>
+				</dict>
+			</dict>
+			<!-- PYTHON END  -->
 			<dict>
 				<key>name</key>
 				<string>Invalid</string>

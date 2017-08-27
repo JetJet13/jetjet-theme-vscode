@@ -142,10 +142,10 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#8C9EFF</string>
+					<string>#FF80AB</string>
 				</dict>
 			</dict>
-				<dict>
+			<dict>
 				<key>name</key>
 				<string>Function Parameter</string>
 				<key>scope</key>
@@ -155,12 +155,12 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#ECEFF1</string>
+					<string>#FF9800</string>
 				</dict>
-			</dict>			
+			</dict>
 			<dict>
 				<key>name</key>
-				<string>Support Constant, Function Argument, Tag Attribute, Embedded</string>
+				<string>Support Constant</string>
 				<key>scope</key>
 				<string>support.constant</string>
 				<key>settings</key>
@@ -260,7 +260,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FF8F6B</string>
+					<string>#7AF0D2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -273,7 +273,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#FF8F6B</string>
+					<string>#7AF0D2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -299,7 +299,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FF80AB</string>
+					<string>#8C9EFF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -378,6 +378,7 @@
 					<string>#00E2FF</string>
 				</dict>
 			</dict>
+			<!--PYTHON START  -->
 			<dict>
 				<key>name</key>
 				<string> Python - Meta Function Call</string>
@@ -404,6 +405,20 @@
 					<string>#00E2FF</string>
 				</dict>
 			</dict>
+			<dict>
+				<key>name</key>
+				<string>Python Builtin Function</string>
+				<key>scope</key>
+				<string>support.function.builtin.python</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#FFCC80</string>
+				</dict>
+			</dict>
+			<!--PYTHON END  -->
 			<dict>
 				<key>name</key>
 				<string>Invalid</string>
@@ -543,8 +558,8 @@
 				</dict>
 			</dict>
 
-	</array>
-	<key>uuid</key>
-	<string>3F4BB232-3C3A-4396-99C0-06A9573715E9</string>
-</dict>
+		</array>
+		<key>uuid</key>
+		<string>3F4BB232-3C3A-4396-99C0-06A9573715E9</string>
+	</dict>
 </plist>
