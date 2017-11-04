@@ -1,52 +1,52 @@
 {
-    "name": "jetjet-theme",
-    "displayName": "JetJet-theme",
-    "description": "A pack of three great themes. Enjoy.",
-    "version": "0.19.0",
-    "icon": "jetjet-icon.png",
-    "publisher": "JohnyGeorges",
-    "galleryBanner": {
-        "color": "#212121",
-        "theme": "dark"
-    },
-    "homepage": "https://github.com/JetJet13/jetjet-theme-vscode",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JetJet13/jetjet-theme-vscode.git"
-    },
-    "engines": {
-        "vscode": "^1.8.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "JetJet",
-                "uiTheme": "vs-dark",
-                "path": "./themes/JetJet.tmTheme"
-            },
-            {
-                "label": "JetJet-Gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/JetJet-Gray.tmTheme"
-            },
-            {
-                "label": "JetJet-Alternate",
-                "uiTheme": "vs-dark",
-                "path": "./themes/JetJet-Alternate.tmTheme"
-            },
-            {
-                "label": "JetJet-Alternate-Gray",
-                "uiTheme": "vs-dark",
-                "path": "./themes/JetJet-Alternate-Gray.tmTheme"
-            },
-            {
-                "label": "JetJet-Light",
-                "uiTheme": "vs",
-                "path": "./themes/JetJet-Light.tmTheme"
-            }
-        ]
-    }
+  "name": "jetjet-theme",
+  "displayName": "JetJet-theme",
+  "description": "A pack of three great themes. Enjoy.",
+  "version": "0.19.1",
+  "icon": "jetjet-icon.png",
+  "publisher": "JohnyGeorges",
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/JetJet13/jetjet-theme-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JetJet13/jetjet-theme-vscode.git"
+  },
+  "engines": {
+    "vscode": "^1.8.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetJet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet.tmTheme"
+      },
+      {
+        "label": "JetJet-Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Gray.tmTheme"
+      },
+      {
+        "label": "JetJet-Alternate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Alternate.tmTheme"
+      },
+      {
+        "label": "JetJet-Alternate-Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Alternate-Gray.tmTheme"
+      },
+      {
+        "label": "JetJet-Light",
+        "uiTheme": "vs",
+        "path": "./themes/JetJet-Light.tmTheme"
+      }
+    ]
+  }
 }
