@@ -46,7 +46,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -57,7 +57,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#FFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<!--CSS COLORS  -->
@@ -104,7 +104,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -128,7 +128,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<!--END OF HTML COLOR SCHEME-->
@@ -207,7 +207,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 
@@ -286,7 +286,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -350,7 +350,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -379,6 +379,19 @@
 					<string>#FFCC80</string>
 				</dict>
 			</dict>
+			<dict>
+				<key>name</key>
+				<string>Python Source</string>
+				<key>scope</key>
+				<string>source.python</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string></string>
+					<key>foreground</key>
+					<string>#F0F6FF</string>
+				</dict>
+			</dict>
 			<!--END PYTHON  -->
 			<dict>
 				<key>name</key>
@@ -405,7 +418,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -418,7 +431,7 @@
 					<key>background</key>
 					<string>#BBDAFE</string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -433,7 +446,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -466,7 +479,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#FFFFFF</string>
+					<string>#F0F6FF</string>
 					<key>background</key>
 					<string>#4271ae</string>
 				</dict>
