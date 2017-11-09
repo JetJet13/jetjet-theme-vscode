@@ -46,6 +46,11 @@
         "label": "JetJet-Light",
         "uiTheme": "vs",
         "path": "./themes/JetJet-Light.tmTheme"
+      },
+      {
+        "label": "JetJet-Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Pastel.tmTheme"
       }
     ]
   }
