@@ -1,8 +1,8 @@
 
 
 # JetJet Theme
-This package comes with three themes: Original, Alternate, and Light.
-This theme will work for VS Code versions 1.8.0 and greater.
+This package comes with five themes: Original, Alternate, Light, Pastel and Prime.
+These themes will work for VS Code versions 1.8.0 and greater.
 
 
 # Workbench Customization
@@ -22,23 +22,35 @@ For example,
 ```
 Enjoy!
 ## Javascript (Original)
-![sample-code-original-js](js-jetjet.jpg)
+![sample-code-original-js](images/jetjet/jetjet-js.jpg)
 ## HTML (Original)
-![sample-code-original-html](html-jetjet.jpg)
+![sample-code-original-html](images/jetjet/jetjet-html.jpg)
 ## Python (Original)
-![sample-code-original-html](python-jetjet.jpg)
+![sample-code-original-python](images/jetjet/jetjet-python.jpg)
 ## Javascript (Alternate)
-![sample-code-alternate-js](js-jetjet-alternate.jpg)
+![sample-code-alternate-js](images/jetjet-alternate/jetjet-alternate-js.jpg)
 ## HTML (Alternate)
-![sample-code-alternate-html](html-jetjet-alternate.jpg)
+![sample-code-alternate-html](images/jetjet-alternate/jetjet-alternate-html.jpg)
 ## Python (Alternate)
-![sample-code-alternate-python](python-jetjet-alternate.jpg)
+![sample-code-alternate-python](images/jetjet-alternate/jetjet-alternate-python.jpg)
 ## Javascript (Light)
-![sample-code-light-js](js-jetjet-light.jpg)
+![sample-code-light-js](images/jetjet-light/jetjet-light-js.jpg)
 ## HTML (Light)
-![sample-code-light-html](html-jetjet-light.jpg)
+![sample-code-light-html](images/jetjet-light/jetjet-light-html.jpg)
 ## Python (Light)
-![sample-code-light-html](python-jetjet-light.jpg)
+![sample-code-light-python](images/jetjet-light/jetjet-light-python.jpg)
+## Javascript (Pastel)
+![sample-code-pastel-js](images/jetjet-pastel/jetjet-pastel-js.jpg)
+## HTML (Pastel)
+![sample-code-pastel-html](images/jetjet-pastel/jetjet-pastel-html.jpg)
+## Python (Pastel)
+![sample-code-pastel-python](images/jetjet-pastel/jetjet-pastel-python.jpg)
+## Javascript (Prime)
+![sample-code-pastel-js](images/jetjet-prime/jetjet-prime-js.jpg)
+## HTML (Prime)
+![sample-code-pastel-html](images/jetjet-prime/jetjet-prime-html.jpg)
+## Python (Prime)
+![sample-code-pastel-python](images/jetjet-prime/jetjet-prime-python.jpg)
 # License
 
 Copyright 2017 Johny Georges
