@@ -51,6 +51,16 @@
         "label": "JetJet-Pastel",
         "uiTheme": "vs-dark",
         "path": "./themes/JetJet-Pastel.tmTheme"
+      },
+      {
+        "label": "JetJet-Prime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Prime.tmTheme"
+      },
+      {
+        "label": "JetJet-Prime-Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetJet-Prime-Gray.tmTheme"
       }
     ]
   }
